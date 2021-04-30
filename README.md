@@ -1,4 +1,4 @@
-s
+
 # BattleShip
 
 3GC3 Final Project `Group 12`:  
