@@ -33,19 +33,7 @@ and the other one is the gear of the ship, a postive number means going forward 
 
 Tips:
 Try to aviod the island while crusing around the map.
-The closer the ship to the target, the greater accuracy.l
-
-Implemented functions:  
-1. Load and render obj files.  
-2. Extract and store normal vectors from obj file.  
-3. Generate and render stable water surface.  
-4. Generate and render islands with circle algorithm.  
-5. Basic camera control: move along an axis.  
-6. Lighting and shading of an obj file.  
-7. Calculate and apply the normal of terrain and water surface.  
-8. Read mtl files to extract the material properites of a ship.  
-9. Read `.PPM` files. (but texturing is not ready yet)  
-
+The closer the ship to the target, the greater accuracy.
 
 Required External Library:  
 None.  
